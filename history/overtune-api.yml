@@ -1,7 +1,7 @@
 url: https://api.overtune.app/health
-status: up
-code: 200
-responseTime: 331
-lastUpdated: 2026-05-13T23:23:49.948Z
+status: down
+code: 502
+responseTime: 305
+lastUpdated: 2026-05-14T19:28:54.062Z
 startTime: 2023-02-08T15:44:21.000Z
 generator: Upptime <https://github.com/upptime/upptime>
