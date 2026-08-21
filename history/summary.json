@@ -4,16 +4,16 @@
     "url": "https://overtune.app",
     "icon": "https://icons.duckduckgo.com/ip3/overtune.app.ico",
     "slug": "overtune-web",
-    "status": "down",
+    "status": "up",
     "uptime": "98.54%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "97.68%",
+    "uptimeWeek": "99.67%",
+    "uptimeMonth": "99.92%",
     "uptimeYear": "94.89%",
-    "time": 408,
-    "timeDay": 735,
-    "timeWeek": 931,
-    "timeMonth": 1466,
+    "time": 409,
+    "timeDay": 705,
+    "timeWeek": 900,
+    "timeMonth": 1441,
     "timeYear": 459,
     "dailyMinutesDown": {
       "2025-08-27": 15,
@@ -43,7 +43,8 @@
       "2026-04-20": 1440,
       "2026-04-19": 1440,
       "2026-04-18": 1440,
-      "2026-04-17": 658
+      "2026-04-17": 658,
+      "2026-08-21": 33
     }
   },
   {
